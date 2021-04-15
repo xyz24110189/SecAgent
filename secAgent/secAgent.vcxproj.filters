@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{90cbd141-c63d-4faf-9308-743675f39bf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\comm">
+      <UniqueIdentifier>{17ee1842-3ce8-4bad-93bf-95313dd99728}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\base64">
+      <UniqueIdentifier>{a98788e7-57e8-4ac5-a7ef-46a08a6a3e10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\pkiManager.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\secAgent.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\sqlCipherDb.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\base64\base64.h">
+      <Filter>src\base64</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\comm.h">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\global.h">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\utils.h">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\platformFolders.h">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\threadPool.h">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\comm\task.hpp">
+      <Filter>src\comm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\pkiManager.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\secAgent.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sqlCipherDb.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\base64\base64.cpp">
+      <Filter>src\base64</Filter>
+    </ClCompile>
+    <ClCompile Include="src\comm\utils.cpp">
+      <Filter>src\comm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\comm\platformFolders.cpp">
+      <Filter>src\comm</Filter>
+    </ClCompile>
+    <ClCompile Include="src\comm\threadPool.cpp">
+      <Filter>src\comm</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,866 @@
+﻿2020-11-11 16:09:18.160 INFO  [5288] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-11 16:09:18.550 INFO  [5288] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-11 16:09:18.550 INFO  [5288] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-11 16:09:18.550 INFO  [5288] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-11 16:09:18.690 INFO  [5288] [koal::SqlCipherDb::CreatePubTable@148] CreatePubTable Operator Done successfully.
+2020-11-11 16:09:20.352 INFO  [5288] [koal::PkiManager::Sm4Encrypt@67] PkiManager::Sm4Encrypt begin ...
+2020-11-11 16:09:20.367 INFO  [5288] [koal::PkiManager::Sm4Encrypt@109] PkiManager::Sm4Encrypt success!
+2020-11-11 16:09:20.367 INFO  [5288] [koal::PkiManager::Sm4Encrypt@112] PkiManager::Sm4Encrypt end ...
+2020-11-11 16:09:22.537 INFO  [5288] [koal::PkiManager::Sm4Decrypt@119] PkiManager::Sm4Decrypt begin ...
+2020-11-11 16:09:22.542 INFO  [5288] [koal::PkiManager::Sm4Decrypt@162] PkiManager::Sm4Decrypt success!
+2020-11-11 16:09:22.542 INFO  [5288] [koal::PkiManager::Sm4Decrypt@165] PkiManager::Sm4Decrypt end ...
+2020-11-11 16:09:22.542 INFO  [5288] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-11 16:09:22.544 INFO  [5288] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-12 18:56:53.397 INFO  [7312] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 18:56:53.944 INFO  [7312] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 18:56:53.944 INFO  [7312] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 18:56:53.945 INFO  [7312] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 18:56:53.945 INFO  [7312] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 18:57:34.922 INFO  [7312] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 18:58:07.965 INFO  [6240] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 18:58:08.374 INFO  [6240] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 18:58:08.374 INFO  [6240] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 18:58:08.375 INFO  [6240] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 18:58:08.375 INFO  [6240] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:02:26.580 INFO  [2616] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:02:26.993 INFO  [2616] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:02:26.993 INFO  [2616] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:02:26.994 INFO  [2616] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:02:26.994 INFO  [2616] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:04:00.975 INFO  [9524] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:04:01.437 INFO  [9524] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:04:01.437 INFO  [9524] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:04:01.437 INFO  [9524] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:04:01.437 INFO  [9524] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:06:23.090 INFO  [10404] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:06:23.552 INFO  [10404] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:06:23.552 INFO  [10404] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:06:23.552 INFO  [10404] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:06:23.552 INFO  [10404] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:47:17.456 INFO  [10220] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:47:17.941 INFO  [10220] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:47:17.941 INFO  [10220] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:47:17.941 INFO  [10220] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:47:17.941 INFO  [10220] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:51:52.882 INFO  [9308] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:51:53.292 INFO  [9308] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:51:53.292 INFO  [9308] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:51:53.292 INFO  [9308] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:51:53.292 INFO  [9308] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:56:04.867 INFO  [10656] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 19:56:05.317 INFO  [10656] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:56:05.317 INFO  [10656] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:56:05.317 INFO  [10656] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 19:56:05.317 INFO  [10656] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 19:56:36.209 INFO  [10656] [koal::SqlCipherDb::InsertUserCertInfo@197] InsertUserCertInfo SQL Excute Success!
+2020-11-12 19:56:45.973 INFO  [10656] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 19:56:51.850 INFO  [10656] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 19:58:13.374 ERROR [10656] [koal::PkiManager::PubEncrypt@215] PkiManager::PubEncrypt build x509 object from bio failed!
+2020-11-12 20:03:25.967 INFO  [6796] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:03:26.444 INFO  [6796] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:03:26.445 INFO  [6796] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:03:26.445 INFO  [6796] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:03:26.445 INFO  [6796] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:03:29.883 ERROR [6796] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:03:32.312 INFO  [6796] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:03:32.312 INFO  [6796] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:05:34.997 INFO  [10088] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:05:35.438 INFO  [10088] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:05:35.438 INFO  [10088] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:05:35.438 INFO  [10088] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:05:35.438 INFO  [10088] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:05:42.284 ERROR [10088] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:10:19.038 INFO  [10088] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:10:21.349 INFO  [10088] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:10:25.760 ERROR [10088] [koal::PkiManager::PubEncrypt@215] PkiManager::PubEncrypt build x509 object from bio failed!
+2020-11-12 20:11:00.583 INFO  [11224] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:11:01.089 INFO  [11224] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:11:01.089 INFO  [11224] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:11:01.089 INFO  [11224] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:11:01.089 INFO  [11224] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:11:03.733 ERROR [11224] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:11:04.393 INFO  [11224] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:11:04.393 INFO  [11224] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:15:50.882 INFO  [6872] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:15:51.296 INFO  [6872] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:15:51.296 INFO  [6872] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:15:51.296 INFO  [6872] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:15:51.296 INFO  [6872] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:15:54.050 ERROR [6872] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:15:54.658 INFO  [6872] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:15:54.658 INFO  [6872] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:16:21.615 ERROR [6872] [koal::PkiManager::PubEncrypt@219] PkiManager::PubEncrypt build x509 object from bio failed!
+2020-11-12 20:24:04.480 INFO  [4868] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:24:04.894 INFO  [4868] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:24:04.895 INFO  [4868] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:24:04.895 INFO  [4868] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:24:04.895 INFO  [4868] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:24:07.431 ERROR [4868] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:24:08.790 INFO  [4868] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:24:08.790 INFO  [4868] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:24:58.803 INFO  [10940] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:24:59.457 INFO  [10940] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:24:59.457 INFO  [10940] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:24:59.457 INFO  [10940] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:24:59.458 INFO  [10940] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:25:02.359 ERROR [10940] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:25:02.920 INFO  [10940] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:25:02.920 INFO  [10940] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:25:04.297 ERROR [10940] [koal::PkiManager::PubEncrypt@219] PkiManager::PubEncrypt build x509 object from bio failed!
+2020-11-12 20:25:07.770 INFO  [1216] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:25:08.335 INFO  [1216] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:25:08.335 INFO  [1216] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:25:08.335 INFO  [1216] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:25:08.336 INFO  [1216] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:25:10.924 ERROR [1216] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:25:11.638 INFO  [1216] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:25:11.638 INFO  [1216] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:26:15.137 INFO  [272] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:26:15.665 INFO  [272] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:26:15.665 INFO  [272] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:26:15.665 INFO  [272] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:26:15.665 INFO  [272] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:26:17.651 ERROR [272] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:26:18.209 INFO  [272] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:26:18.209 INFO  [272] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:28:23.053 INFO  [10248] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:28:23.568 INFO  [10248] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:28:23.568 INFO  [10248] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:28:23.568 INFO  [10248] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:28:23.568 INFO  [10248] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:28:25.844 ERROR [10248] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:28:26.423 INFO  [10248] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:28:26.423 INFO  [10248] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:28:32.007 INFO  [10588] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:28:32.455 INFO  [10588] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:28:32.455 INFO  [10588] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:28:32.455 INFO  [10588] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:28:32.456 INFO  [10588] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:28:34.792 ERROR [10588] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:28:35.401 INFO  [10588] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:28:35.401 INFO  [10588] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:54:51.309 INFO  [6384] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:54:51.717 INFO  [6384] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:54:51.717 INFO  [6384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:54:51.717 INFO  [6384] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:54:51.717 INFO  [6384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:54:53.941 ERROR [6384] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:54:54.700 INFO  [6384] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:54:54.700 INFO  [6384] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:56:35.517 INFO  [9916] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:56:35.999 INFO  [9916] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:56:35.999 INFO  [9916] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:56:35.999 INFO  [9916] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:56:35.999 INFO  [9916] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:56:38.938 ERROR [9916] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:56:39.659 INFO  [9916] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:56:39.659 INFO  [9916] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 20:56:45.469 INFO  [3584] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 20:56:45.898 INFO  [3584] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:56:45.898 INFO  [3584] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:56:45.898 INFO  [3584] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 20:56:45.898 INFO  [3584] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 20:56:48.226 ERROR [3584] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 20:56:48.984 INFO  [3584] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 20:56:48.984 INFO  [3584] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:06:51.542 INFO  [7324] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:06:51.957 INFO  [7324] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:06:51.957 INFO  [7324] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:06:51.957 INFO  [7324] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:06:51.957 INFO  [7324] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:06:54.301 ERROR [7324] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:06:54.958 INFO  [7324] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:06:54.958 INFO  [7324] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:07:34.860 INFO  [10748] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:07:35.426 INFO  [10748] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:07:35.426 INFO  [10748] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:07:35.426 INFO  [10748] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:07:35.426 INFO  [10748] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:07:37.600 ERROR [10748] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:07:38.206 INFO  [10748] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:07:38.206 INFO  [10748] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:08:16.866 INFO  [10316] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:08:17.257 INFO  [10316] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:08:17.257 INFO  [10316] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:08:17.258 INFO  [10316] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:08:17.258 INFO  [10316] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:08:17.259 ERROR [10316] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:08:17.259 INFO  [10316] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:08:17.259 INFO  [10316] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:10:54.222 INFO  [5592] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:10:54.767 INFO  [5592] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:10:54.767 INFO  [5592] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:10:54.767 INFO  [5592] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:10:54.767 INFO  [5592] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:10:57.851 ERROR [5592] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:10:58.510 INFO  [5592] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:10:58.510 INFO  [5592] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:11:23.828 INFO  [3604] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:11:24.219 INFO  [3604] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:11:24.219 INFO  [3604] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:11:24.219 INFO  [3604] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:11:24.219 INFO  [3604] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:11:24.220 ERROR [3604] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:11:24.221 INFO  [3604] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:11:24.221 INFO  [3604] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:12:33.789 INFO  [9864] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:12:34.178 INFO  [9864] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:12:34.178 INFO  [9864] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:12:34.178 INFO  [9864] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:12:34.178 INFO  [9864] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:12:34.179 ERROR [9864] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:12:34.179 INFO  [9864] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:12:34.179 INFO  [9864] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:13:10.653 INFO  [10988] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:13:11.042 INFO  [10988] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:11.042 INFO  [10988] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:11.042 INFO  [10988] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:11.042 INFO  [10988] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:11.043 ERROR [10988] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:13:11.043 INFO  [10988] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:13:11.043 INFO  [10988] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:13:15.797 INFO  [7908] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:13:16.186 INFO  [7908] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:16.186 INFO  [7908] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:16.186 INFO  [7908] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:16.186 INFO  [7908] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:16.187 ERROR [7908] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:13:16.188 INFO  [7908] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:13:16.188 INFO  [7908] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:13:39.953 INFO  [1108] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:13:40.341 INFO  [1108] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:40.341 INFO  [1108] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:40.341 INFO  [1108] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:13:40.341 INFO  [1108] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:13:40.342 ERROR [1108] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:13:40.343 INFO  [1108] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:13:40.343 INFO  [1108] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:16:39.626 INFO  [10384] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:16:40.008 INFO  [10384] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:16:40.008 INFO  [10384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:16:40.008 INFO  [10384] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:16:40.008 INFO  [10384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:16:40.009 ERROR [10384] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:16:40.010 INFO  [10384] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:16:40.010 INFO  [10384] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:23:02.530 INFO  [4288] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:23:02.917 INFO  [4288] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:23:02.917 INFO  [4288] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:23:02.918 INFO  [4288] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:23:02.918 INFO  [4288] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:23:02.919 ERROR [4288] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:23:02.919 INFO  [4288] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:23:02.919 INFO  [4288] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:23:12.387 INFO  [10524] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:23:12.779 INFO  [10524] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:23:12.779 INFO  [10524] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:23:12.779 INFO  [10524] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:23:12.779 INFO  [10524] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:23:12.780 ERROR [10524] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:23:12.780 INFO  [10524] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:23:12.780 INFO  [10524] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:24:37.510 INFO  [5676] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:24:37.898 INFO  [5676] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:24:37.898 INFO  [5676] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:24:37.899 INFO  [5676] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:24:37.899 INFO  [5676] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:24:37.900 ERROR [5676] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:24:37.900 INFO  [5676] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:24:37.900 INFO  [5676] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:24:37.918 INFO  [5676] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-12 21:24:37.927 INFO  [5676] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-12 21:24:37.927 INFO  [5676] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-12 21:24:37.929 INFO  [5676] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-12 21:24:37.936 INFO  [5676] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-12 21:24:37.936 INFO  [5676] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-12 21:24:37.938 INFO  [5676] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-12 21:24:37.939 INFO  [5676] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-12 21:26:57.448 INFO  [9548] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:26:58.040 INFO  [9548] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:26:58.040 INFO  [9548] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:26:58.040 INFO  [9548] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:26:58.040 INFO  [9548] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:27:00.647 ERROR [9548] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:27:01.470 INFO  [9548] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:27:01.470 INFO  [9548] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:28:53.140 INFO  [11120] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:28:53.784 INFO  [11120] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:28:53.784 INFO  [11120] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:28:53.785 INFO  [11120] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:28:53.785 INFO  [11120] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:28:56.466 ERROR [11120] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:28:57.574 INFO  [11120] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:28:57.574 INFO  [11120] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:29:04.865 ERROR [11120] [koal::PkiManager::PubDecrypt@287] PkiManager::PubDecrypt PEM_read_PrivateKey failed!
+2020-11-12 21:29:33.471 INFO  [9952] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:29:33.997 INFO  [9952] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:29:33.997 INFO  [9952] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:29:33.997 INFO  [9952] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:29:33.997 INFO  [9952] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:29:36.963 ERROR [9952] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:29:37.620 INFO  [9952] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:29:37.620 INFO  [9952] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:29:43.574 ERROR [9952] [koal::PkiManager::PubDecrypt@287] PkiManager::PubDecrypt PEM_read_PrivateKey failed!
+2020-11-12 21:31:24.859 INFO  [5032] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:31:25.248 INFO  [5032] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:31:25.248 INFO  [5032] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:31:25.248 INFO  [5032] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:31:25.248 INFO  [5032] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:31:25.249 ERROR [5032] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:31:25.249 INFO  [5032] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:31:25.249 INFO  [5032] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:31:25.266 INFO  [5032] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-12 21:31:25.274 INFO  [5032] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-12 21:31:25.274 INFO  [5032] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-12 21:31:25.276 INFO  [5032] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-12 21:31:25.283 INFO  [5032] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-12 21:31:25.283 INFO  [5032] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-12 21:31:25.284 INFO  [5032] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-12 21:31:25.286 INFO  [5032] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-12 21:32:27.126 INFO  [6748] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:32:27.583 INFO  [6748] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:27.583 INFO  [6748] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:27.583 INFO  [6748] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:27.583 INFO  [6748] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:28.512 ERROR [6748] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:32:28.819 INFO  [6748] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:32:28.819 INFO  [6748] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:32:41.773 INFO  [6748] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-12 21:32:41.778 INFO  [6748] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-12 21:32:41.778 INFO  [6748] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-12 21:32:43.344 INFO  [6748] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-12 21:32:43.353 INFO  [6748] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-12 21:32:43.354 INFO  [6748] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-12 21:32:43.355 INFO  [6748] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-12 21:32:43.358 INFO  [6748] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-12 21:32:49.002 INFO  [10568] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:32:49.386 INFO  [10568] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:49.386 INFO  [10568] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:49.386 INFO  [10568] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:49.386 INFO  [10568] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:49.388 ERROR [10568] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:32:49.388 INFO  [10568] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:32:49.388 INFO  [10568] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:32:49.404 INFO  [10568] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-12 21:32:49.412 INFO  [10568] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-12 21:32:49.413 INFO  [10568] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-12 21:32:49.414 INFO  [10568] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-12 21:32:49.421 INFO  [10568] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-12 21:32:49.421 INFO  [10568] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-12 21:32:49.423 INFO  [10568] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-12 21:32:49.424 INFO  [10568] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-12 21:32:53.037 INFO  [9600] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-12 21:32:53.425 INFO  [9600] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:53.425 INFO  [9600] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:53.426 INFO  [9600] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-12 21:32:53.426 INFO  [9600] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-12 21:32:53.427 ERROR [9600] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-12 21:32:53.427 INFO  [9600] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-12 21:32:53.427 INFO  [9600] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-12 21:32:53.443 INFO  [9600] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-12 21:32:53.451 INFO  [9600] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-12 21:32:53.451 INFO  [9600] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-12 21:32:53.453 INFO  [9600] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-12 21:32:53.461 INFO  [9600] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-12 21:32:53.461 INFO  [9600] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-12 21:32:53.462 INFO  [9600] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-12 21:32:53.464 INFO  [9600] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-13 09:46:29.855 INFO  [6560] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 09:46:30.483 INFO  [6560] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 09:46:30.483 INFO  [6560] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 09:46:30.484 INFO  [6560] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 09:46:30.484 INFO  [6560] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 09:46:36.061 ERROR [6560] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 09:46:38.526 INFO  [6560] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 09:46:38.526 INFO  [6560] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 09:46:50.654 INFO  [6560] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 09:46:53.499 INFO  [6560] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 09:46:53.499 INFO  [6560] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 09:46:57.395 INFO  [6560] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 09:47:01.009 INFO  [6560] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 09:47:01.212 INFO  [6560] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 10:42:30.578 INFO  [8760] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 10:42:31.073 INFO  [8760] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:42:31.073 INFO  [8760] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:42:31.073 INFO  [8760] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:42:31.073 INFO  [8760] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:42:31.074 ERROR [8760] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 10:42:31.074 INFO  [8760] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 10:42:31.075 INFO  [8760] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 10:42:31.100 INFO  [8760] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 10:42:31.106 INFO  [8760] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 10:42:31.106 INFO  [8760] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 10:42:31.107 INFO  [8760] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 10:42:31.112 INFO  [8760] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 10:42:31.112 INFO  [8760] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 10:42:31.113 INFO  [8760] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-13 10:42:31.114 INFO  [8760] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-13 10:42:41.111 INFO  [7516] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 10:42:41.620 INFO  [7516] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:42:41.620 INFO  [7516] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:42:41.620 INFO  [7516] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:42:41.620 INFO  [7516] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:42:41.621 ERROR [7516] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 10:42:41.622 INFO  [7516] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 10:42:41.622 INFO  [7516] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 10:42:41.648 INFO  [7516] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 10:42:41.654 INFO  [7516] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 10:42:41.654 INFO  [7516] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 10:42:41.655 INFO  [7516] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 10:42:41.660 INFO  [7516] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 10:42:41.660 INFO  [7516] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 10:51:02.261 INFO  [3436] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 10:51:02.768 INFO  [3436] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:51:02.768 INFO  [3436] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:51:02.768 INFO  [3436] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:51:02.768 INFO  [3436] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:51:02.769 ERROR [3436] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 10:51:02.770 INFO  [3436] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 10:51:02.770 INFO  [3436] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 10:51:02.795 INFO  [3436] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 10:51:02.801 INFO  [3436] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 10:51:02.801 INFO  [3436] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 10:51:02.801 INFO  [3436] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 10:51:02.806 INFO  [3436] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 10:51:02.806 INFO  [3436] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 10:55:48.153 INFO  [4648] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 10:55:48.773 INFO  [4648] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:55:48.773 INFO  [4648] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:55:48.773 INFO  [4648] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 10:55:48.774 INFO  [4648] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 10:55:48.775 ERROR [4648] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 10:55:48.775 INFO  [4648] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 10:55:48.775 INFO  [4648] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 10:55:48.807 INFO  [4648] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 10:55:48.814 INFO  [4648] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 10:55:48.814 INFO  [4648] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 10:55:48.814 INFO  [4648] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 10:55:48.820 INFO  [4648] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 10:55:48.820 INFO  [4648] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 15:33:59.898 INFO  [5276] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 15:34:00.388 INFO  [5276] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:34:00.388 INFO  [5276] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:34:00.388 INFO  [5276] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:34:00.388 INFO  [5276] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:34:00.389 ERROR [5276] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 15:34:00.389 INFO  [5276] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 15:34:00.389 INFO  [5276] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 15:34:00.411 INFO  [5276] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 15:34:00.417 INFO  [5276] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 15:34:00.417 INFO  [5276] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 15:34:00.417 INFO  [5276] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 15:34:00.422 INFO  [5276] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 15:34:00.422 INFO  [5276] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 15:34:01.550 INFO  [5276] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-13 15:34:01.552 INFO  [5276] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-13 15:34:04.368 INFO  [10364] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 15:34:05.012 INFO  [10364] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:34:05.012 INFO  [10364] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:34:05.012 INFO  [10364] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:34:05.012 INFO  [10364] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:34:05.013 ERROR [10364] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 15:34:05.014 INFO  [10364] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 15:34:05.014 INFO  [10364] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 15:34:05.034 INFO  [10364] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 15:34:05.038 INFO  [10364] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 15:34:05.038 INFO  [10364] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 15:34:05.038 INFO  [10364] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 15:34:05.043 INFO  [10364] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 15:34:05.043 INFO  [10364] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 15:49:32.188 INFO  [5232] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 15:49:32.880 INFO  [5232] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:49:32.880 INFO  [5232] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:49:32.880 INFO  [5232] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 15:49:32.880 INFO  [5232] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 15:49:32.882 ERROR [5232] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 15:49:32.882 INFO  [5232] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 15:49:32.882 INFO  [5232] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 15:49:52.265 INFO  [5232] [koal::PkiManager::Sm4Encrypt@71] PkiManager::Sm4Encrypt begin ...
+2020-11-13 15:49:52.273 INFO  [5232] [koal::PkiManager::Sm4Encrypt@113] PkiManager::Sm4Encrypt success!
+2020-11-13 15:49:52.273 INFO  [5232] [koal::PkiManager::Sm4Encrypt@116] PkiManager::Sm4Encrypt end ...
+2020-11-13 15:49:52.273 INFO  [5232] [koal::PkiManager::Sm4Decrypt@123] PkiManager::Sm4Decrypt begin ...
+2020-11-13 15:49:52.285 INFO  [5232] [koal::PkiManager::Sm4Decrypt@166] PkiManager::Sm4Decrypt success!
+2020-11-13 15:49:52.285 INFO  [5232] [koal::PkiManager::Sm4Decrypt@169] PkiManager::Sm4Decrypt end ...
+2020-11-13 16:08:13.163 INFO  [6408] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 16:08:13.826 INFO  [6408] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 16:08:13.826 INFO  [6408] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 16:08:13.827 INFO  [6408] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 16:08:13.827 INFO  [6408] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 16:08:13.828 ERROR [6408] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 16:08:13.828 INFO  [6408] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 16:08:13.828 INFO  [6408] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 16:08:13.863 INFO  [6408] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-13 16:08:13.869 INFO  [6408] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-13 16:08:13.869 INFO  [6408] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-13 16:08:13.870 INFO  [6408] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-13 16:08:13.875 INFO  [6408] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-13 16:08:13.875 INFO  [6408] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-13 16:09:04.312 INFO  [11164] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-13 16:09:04.949 INFO  [11164] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 16:09:04.949 INFO  [11164] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 16:09:04.949 INFO  [11164] [koal::SqlCipherDb::IsTableExistCallback@418] TableExistCallback hasTable = 1
+2020-11-13 16:09:04.949 INFO  [11164] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-13 16:09:04.950 ERROR [11164] [koal::SqlCipherDb::InsertUserCertInfo@194] InsertUserCertInfo SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-13 16:09:04.951 INFO  [11164] [koal::SqlCipherDb::CertPathCallBack@374] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-13 16:09:04.951 INFO  [11164] [koal::SqlCipherDb::QueryCertByAccid@300] QeuryCertByAccid SQL Excute Success!
+2020-11-13 16:09:04.982 INFO  [11164] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-13 16:09:04.988 INFO  [11164] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-13 16:09:04.988 INFO  [11164] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-13 16:09:04.988 INFO  [11164] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-13 16:09:04.992 INFO  [11164] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-13 16:09:04.992 INFO  [11164] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:25:54.062 INFO  [6216] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:25:54.607 INFO  [6216] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:25:54.607 INFO  [6216] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:25:54.607 INFO  [6216] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:25:54.607 INFO  [6216] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:25:54.610 ERROR [6216] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:25:54.610 INFO  [6216] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:25:54.610 INFO  [6216] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:25:54.632 ERROR [6216] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:26:47.674 INFO  [10164] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:26:48.235 INFO  [10164] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:26:48.235 INFO  [10164] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:26:48.236 INFO  [10164] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:26:48.236 INFO  [10164] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:26:48.237 ERROR [10164] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:26:48.238 INFO  [10164] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:26:48.238 INFO  [10164] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:26:48.255 ERROR [10164] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:26:48.255 INFO  [10164] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:26:48.258 INFO  [10164] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:26:48.258 INFO  [10164] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:26:48.258 ERROR [10164] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:26:48.258 INFO  [10164] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:27:34.046 INFO  [8072] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:27:34.418 INFO  [8072] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:27:34.418 INFO  [8072] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:27:34.418 INFO  [8072] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:27:34.418 INFO  [8072] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:27:34.419 ERROR [8072] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:27:34.419 INFO  [8072] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:27:34.419 INFO  [8072] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:27:34.427 ERROR [8072] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:27:34.428 INFO  [8072] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:27:34.428 INFO  [8072] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:27:34.428 INFO  [8072] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:27:34.428 ERROR [8072] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:27:34.428 INFO  [8072] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:27:34.429 INFO  [8072] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:27:34.435 INFO  [8072] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:27:40.899 INFO  [7420] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:27:41.273 INFO  [7420] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:27:41.274 INFO  [7420] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:27:41.274 INFO  [7420] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:27:41.274 INFO  [7420] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:27:41.275 ERROR [7420] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:27:41.275 INFO  [7420] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:27:41.275 INFO  [7420] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:27:41.283 ERROR [7420] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:27:41.284 INFO  [7420] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:27:41.284 INFO  [7420] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:27:41.284 INFO  [7420] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:27:41.284 ERROR [7420] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:27:41.284 INFO  [7420] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:27:41.285 INFO  [7420] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:27:41.287 INFO  [7420] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:29:13.933 INFO  [8960] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:29:14.327 INFO  [8960] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:14.327 INFO  [8960] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:14.328 INFO  [8960] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:14.328 INFO  [8960] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:14.329 ERROR [8960] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:29:14.329 INFO  [8960] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:29:14.329 INFO  [8960] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:29:14.341 ERROR [8960] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:29:14.343 INFO  [8960] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:29:14.344 INFO  [8960] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:29:14.344 INFO  [8960] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:29:14.345 ERROR [8960] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:29:14.345 INFO  [8960] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:29:14.346 INFO  [8960] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:29:14.347 INFO  [8960] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:29:22.176 INFO  [8208] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:29:22.553 INFO  [8208] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:22.553 INFO  [8208] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:22.553 INFO  [8208] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:22.553 INFO  [8208] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:22.554 ERROR [8208] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:29:22.554 INFO  [8208] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:29:22.554 INFO  [8208] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:29:22.566 ERROR [8208] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:29:22.568 INFO  [8208] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:29:22.569 INFO  [8208] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:29:22.570 INFO  [8208] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:29:22.570 ERROR [8208] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:29:22.570 INFO  [8208] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:29:22.571 INFO  [8208] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:29:22.573 INFO  [8208] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:29:37.570 INFO  [7140] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:29:37.948 INFO  [7140] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:37.948 INFO  [7140] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:37.949 INFO  [7140] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:37.949 INFO  [7140] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:37.950 ERROR [7140] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:29:37.950 INFO  [7140] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:29:37.950 INFO  [7140] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:29:37.962 ERROR [7140] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:29:37.964 INFO  [7140] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:29:37.965 INFO  [7140] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:29:37.965 INFO  [7140] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:29:37.965 ERROR [7140] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:29:37.965 INFO  [7140] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:29:37.966 INFO  [7140] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:29:37.968 INFO  [7140] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:29:57.412 INFO  [9124] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:29:58.022 INFO  [9124] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:58.023 INFO  [9124] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:58.023 INFO  [9124] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:29:58.023 INFO  [9124] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:29:58.024 ERROR [9124] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:29:58.025 INFO  [9124] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:29:58.025 INFO  [9124] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:29:58.049 ERROR [9124] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = F:\work\project\bmw\projects\secAgent\bin\x64\Release\agentTest.exe\private.dllfailed!
+2020-11-15 00:29:58.049 INFO  [9124] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:29:58.050 INFO  [9124] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:29:58.050 INFO  [9124] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:29:58.050 ERROR [9124] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:29:58.050 INFO  [9124] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:46:25.918 INFO  [6616] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:46:26.587 INFO  [6616] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:46:26.587 INFO  [6616] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:46:26.588 INFO  [6616] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:46:26.588 INFO  [6616] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:46:26.589 ERROR [6616] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:46:26.590 INFO  [6616] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:46:26.590 INFO  [6616] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:46:26.622 ERROR [6616] [koal::PkiManager::PubDecrypt@288] PkiManager::PubDecrypt PEM_read_PrivateKey failed!
+2020-11-15 00:46:26.625 INFO  [6616] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:46:26.625 INFO  [6616] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:46:26.625 INFO  [6616] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:46:26.625 ERROR [6616] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:46:26.626 INFO  [6616] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:48:29.987 INFO  [4384] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:48:30.590 INFO  [4384] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:48:30.590 INFO  [4384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:48:30.590 INFO  [4384] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:48:30.590 INFO  [4384] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:48:30.592 ERROR [4384] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:48:30.592 INFO  [4384] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:48:30.592 INFO  [4384] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:48:30.619 ERROR [4384] [koal::PkiManager::PubDecrypt@281] PkiManager::PubDecrypt open cert file = agentTest.exefailed!
+2020-11-15 00:48:30.619 INFO  [4384] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:48:30.619 INFO  [4384] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:48:30.620 INFO  [4384] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:48:30.620 ERROR [4384] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:48:30.620 INFO  [4384] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:49:19.409 INFO  [4928] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:49:20.066 INFO  [4928] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:49:20.066 INFO  [4928] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:49:20.066 INFO  [4928] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:49:20.066 INFO  [4928] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:49:20.068 ERROR [4928] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:49:20.069 INFO  [4928] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:49:20.069 INFO  [4928] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:49:20.107 INFO  [4928] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:49:20.107 INFO  [4928] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:49:20.107 INFO  [4928] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:49:20.107 ERROR [4928] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:49:20.107 INFO  [4928] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:55:45.611 INFO  [11168] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:55:45.988 INFO  [11168] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:55:45.988 INFO  [11168] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:55:45.988 INFO  [11168] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:55:45.988 INFO  [11168] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:55:45.989 ERROR [11168] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:55:45.990 INFO  [11168] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:55:45.990 INFO  [11168] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:55:46.010 INFO  [11168] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:55:46.011 INFO  [11168] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:55:46.011 INFO  [11168] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:55:46.011 ERROR [11168] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:55:46.011 INFO  [11168] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:55:46.012 INFO  [11168] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:55:46.014 INFO  [11168] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:55:51.951 INFO  [11208] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:55:52.329 INFO  [11208] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:55:52.329 INFO  [11208] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:55:52.330 INFO  [11208] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:55:52.330 INFO  [11208] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:55:52.331 ERROR [11208] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:55:52.331 INFO  [11208] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:55:52.331 INFO  [11208] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:55:52.350 INFO  [11208] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 00:55:52.351 INFO  [11208] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 00:55:52.352 INFO  [11208] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 00:55:52.352 ERROR [11208] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 00:55:52.352 INFO  [11208] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 00:55:52.353 INFO  [11208] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 00:55:52.355 INFO  [11208] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 00:59:11.603 INFO  [11104] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 00:59:12.205 INFO  [11104] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:59:12.205 INFO  [11104] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:59:12.206 INFO  [11104] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 00:59:12.206 INFO  [11104] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 00:59:12.207 ERROR [11104] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 00:59:12.208 INFO  [11104] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 00:59:12.208 INFO  [11104] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 00:59:16.116 INFO  [11104] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:46:04.098 INFO  [3232] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:46:04.552 INFO  [3232] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:46:04.553 INFO  [3232] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:46:04.553 INFO  [3232] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:46:04.553 INFO  [3232] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:46:04.554 ERROR [3232] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:46:04.554 INFO  [3232] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:46:04.554 INFO  [3232] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:46:04.583 INFO  [3232] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:46:04.583 ERROR [3232] [koal::SecAgent::GetKeyByUserId@120] GetKeyByUserId failed where accid = xyz2411089
+2020-11-15 09:46:04.749 INFO  [3232] [koal::SqlCipherDb::InsertKey@224] InsertKey SQL Excute Success!
+2020-11-15 09:46:12.390 INFO  [3232] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605404764583
+2020-11-15 09:46:12.390 INFO  [3232] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:46:37.710 INFO  [3232] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:46:37.710 INFO  [3232] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 09:46:37.710 ERROR [3232] [koal::PkiManager::Sm4Decrypt@159] Decrypt failed : DecryptFinal
+2020-11-15 09:46:37.710 INFO  [3232] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 09:46:53.485 INFO  [5404] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:46:54.050 INFO  [5404] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:46:54.050 INFO  [5404] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:46:54.050 INFO  [5404] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:46:54.051 INFO  [5404] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:46:54.052 ERROR [5404] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:46:54.052 INFO  [5404] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:46:54.052 INFO  [5404] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:46:54.084 INFO  [5404] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY 5On3YW7TJ0SDNp51
+2020-11-15 09:46:54.084 INFO  [5404] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:46:54.228 INFO  [5404] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 09:46:57.794 INFO  [5404] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605404814084
+2020-11-15 09:46:57.794 INFO  [5404] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:54:51.437 INFO  [4508] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:54:51.991 INFO  [4508] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:54:51.991 INFO  [4508] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:54:51.991 INFO  [4508] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:54:51.991 INFO  [4508] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:54:51.992 ERROR [4508] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:54:51.992 INFO  [4508] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:54:51.992 INFO  [4508] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:54:52.017 INFO  [4508] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY kgWOE5OysDEJrsFr
+2020-11-15 09:54:52.017 INFO  [4508] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:54:52.146 INFO  [4508] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 09:54:55.476 INFO  [4508] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605405292017
+2020-11-15 09:54:55.476 INFO  [4508] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:54:59.791 INFO  [4508] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 09:54:59.795 INFO  [4508] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 09:54:59.795 INFO  [4508] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 09:55:01.309 INFO  [4508] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:55:09.220 INFO  [4508] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:55:09.220 INFO  [4508] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 09:55:09.233 INFO  [4508] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 09:55:09.233 INFO  [4508] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 09:55:54.023 INFO  [4908] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:55:54.605 INFO  [4908] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:55:54.605 INFO  [4908] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:55:54.605 INFO  [4908] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:55:54.605 INFO  [4908] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:55:54.606 ERROR [4908] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:55:54.607 INFO  [4908] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:55:54.607 INFO  [4908] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:55:54.634 INFO  [4908] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY LaSnrueEKmlSIL4f
+2020-11-15 09:55:54.635 INFO  [4908] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:55:54.779 INFO  [4908] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 09:55:56.289 INFO  [4908] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605405354635
+2020-11-15 09:55:56.289 INFO  [4908] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:55:56.290 INFO  [4908] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 09:55:56.316 INFO  [4908] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 09:55:56.316 INFO  [4908] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 09:55:56.434 INFO  [4908] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:55:57.476 INFO  [4908] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:55:57.476 INFO  [4908] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 09:55:57.483 INFO  [4908] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 09:55:57.483 INFO  [4908] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 09:55:59.792 INFO  [4908] [koal::SqlCipherDb::CloseDb@83] SqlCipherDb::CloseDb begin...
+2020-11-15 09:55:59.797 INFO  [4908] [koal::SqlCipherDb::CloseDb@89] SqlCipherDb::CloseDb end...
+2020-11-15 09:56:01.959 INFO  [4200] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:56:02.539 INFO  [4200] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:56:02.539 INFO  [4200] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:56:02.540 INFO  [4200] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:56:02.540 INFO  [4200] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:56:02.541 ERROR [4200] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:56:02.541 INFO  [4200] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:56:02.541 INFO  [4200] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:56:02.569 INFO  [4200] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY faLUuZ331uREWLS2
+2020-11-15 09:56:02.569 INFO  [4200] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:56:02.667 INFO  [4200] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 09:56:05.478 INFO  [4200] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605405362569
+2020-11-15 09:56:05.478 INFO  [4200] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:56:09.318 INFO  [4200] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 09:56:09.322 INFO  [4200] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 09:56:09.322 INFO  [4200] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 09:56:10.966 INFO  [4200] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:56:18.443 INFO  [4200] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:56:19.976 INFO  [4200] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 09:56:19.987 INFO  [4200] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 09:56:19.987 INFO  [4200] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 09:57:04.128 INFO  [5388] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 09:57:04.705 INFO  [5388] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:57:04.705 INFO  [5388] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:57:04.705 INFO  [5388] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 09:57:04.705 INFO  [5388] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 09:57:04.706 ERROR [5388] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 09:57:04.707 INFO  [5388] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 09:57:04.707 INFO  [5388] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 09:57:04.738 INFO  [5388] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY 6fTFIN3Kkx315c0A
+2020-11-15 09:57:04.738 INFO  [5388] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 09:57:04.856 INFO  [5388] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 09:57:05.817 INFO  [5388] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605405424738
+2020-11-15 09:57:05.818 INFO  [5388] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 09:57:05.818 INFO  [5388] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 09:57:05.830 INFO  [5388] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 09:57:05.830 INFO  [5388] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 09:57:05.957 INFO  [5388] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:57:06.556 INFO  [5388] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 09:57:06.556 INFO  [5388] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 09:57:06.561 INFO  [5388] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 09:57:06.561 INFO  [5388] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 10:11:15.710 INFO  [3496] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 10:11:16.259 INFO  [3496] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 10:11:16.259 INFO  [3496] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 10:11:16.259 INFO  [3496] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 10:11:16.260 INFO  [3496] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 10:11:16.261 ERROR [3496] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 10:11:16.261 INFO  [3496] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 10:11:16.261 INFO  [3496] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 10:11:16.291 INFO  [3496] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY PfMkMDRxF6hmKbOX
+2020-11-15 10:11:16.291 INFO  [3496] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 10:11:16.427 INFO  [3496] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 10:11:19.409 INFO  [3496] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605406276291
+2020-11-15 10:11:19.409 INFO  [3496] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 10:11:24.521 INFO  [3496] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 10:11:24.527 INFO  [3496] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 10:11:24.527 INFO  [3496] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 10:11:26.280 INFO  [3496] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 10:11:35.298 INFO  [3496] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 10:11:35.775 INFO  [3496] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 10:11:35.785 INFO  [3496] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 10:11:35.785 INFO  [3496] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
+2020-11-15 10:14:28.846 INFO  [2536] [koal::SqlCipherDb::InitDb@48] Opened database successfully.
+2020-11-15 10:14:29.469 INFO  [2536] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 10:14:29.469 INFO  [2536] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 10:14:29.469 INFO  [2536] [koal::SqlCipherDb::IsTableExistCallback@470] TableExistCallback hasTable = 1
+2020-11-15 10:14:29.470 INFO  [2536] [koal::SqlCipherDb::IsTableExist@174] TableExistJudge Operation done successfully
+2020-11-15 10:14:29.471 ERROR [2536] [koal::SqlCipherDb::InsertUserCert@194] InsertUserCert SQL Excute Error: UNIQUE constraint failed: PUBENCRYPT.USERID
+2020-11-15 10:14:29.471 INFO  [2536] [koal::SqlCipherDb::CertPathCallBack@426] CertPathCallBack operation result = CERTPATH F:\work\project\bmw\projects\secAgent\bin\x64\Release\certs\cert.cer
+2020-11-15 10:14:29.471 INFO  [2536] [koal::SqlCipherDb::QueryCertByAccid@352] QeuryCertByAccid SQL Excute Success!
+2020-11-15 10:14:29.497 INFO  [2536] [koal::SqlCipherDb::SymKeyCallBack@437] SymKeyCallBack operation result = SYMKEY 2TDTsI7nmZac2w11
+2020-11-15 10:14:29.497 INFO  [2536] [koal::SqlCipherDb::QueryKeyByAccid@377] QueryKeyByAccid SQL Excute Success!
+2020-11-15 10:14:29.653 INFO  [2536] [koal::SqlCipherDb::UpdateKey@251] UpdateKey SQL Excute Success!
+2020-11-15 10:14:30.363 INFO  [2536] [koal::SqlCipherDb::LastOperTimeCallback@415] LastOperTimeCallback operation result = LASTOPERTIME 1605406469497
+2020-11-15 10:14:30.364 INFO  [2536] [koal::SqlCipherDb::QueryLastEncTime@327] QueryLastEncTime SQL Excute Success!
+2020-11-15 10:14:30.364 INFO  [2536] [koal::PkiManager::Sm4Encrypt@72] PkiManager::Sm4Encrypt begin ...
+2020-11-15 10:14:30.397 INFO  [2536] [koal::PkiManager::Sm4Encrypt@114] PkiManager::Sm4Encrypt success!
+2020-11-15 10:14:30.397 INFO  [2536] [koal::PkiManager::Sm4Encrypt@117] PkiManager::Sm4Encrypt end ...
+2020-11-15 10:14:30.553 INFO  [2536] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 10:14:31.263 INFO  [2536] [koal::SqlCipherDb::UpdateLastEncTime@303] UpdateEncKey SQL Excute Success!
+2020-11-15 10:14:31.263 INFO  [2536] [koal::PkiManager::Sm4Decrypt@124] PkiManager::Sm4Decrypt begin ...
+2020-11-15 10:14:31.269 INFO  [2536] [koal::PkiManager::Sm4Decrypt@167] PkiManager::Sm4Decrypt success!
+2020-11-15 10:14:31.269 INFO  [2536] [koal::PkiManager::Sm4Decrypt@170] PkiManager::Sm4Decrypt end ...
